@@ -1,0 +1,9 @@
+.product-title{
+   text-align: start;
+}
+.product-inner{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 10px;
+}
